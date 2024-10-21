@@ -11,12 +11,11 @@ Implementation of Pseudorandom Number Generation Using Standard library.
 5.	The same happens in decryption process but in an inverse manner.
 
 # PROGRAM:
-
+```C
 NAME: INDRAJA S
 REG NO: 212222043003
 DEPT/YR: CSE/3RD
 
-```C
 #include <stdio.h>
 #include <string.h>
 
